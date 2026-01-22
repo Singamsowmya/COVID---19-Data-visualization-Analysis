@@ -42,7 +42,8 @@ This project demonstrates my work on COVID-19 data analysis and visualization us
 
 Below is a snapshot of the Tableau dashboard:
 
-![Dashboard Screenshot](Images/dashboard-preview.png)
+[Download Power BI Dashboard](dashboard-preview.png)
+
 
 To experience the interactivity, open the Tableau workbook file:
 - **File Location**: `Tableau/Covid Dashboard.twb`
