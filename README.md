@@ -81,7 +81,5 @@ To experience the interactivity, open the Tableau workbook file:
 - Inspired by the need to communicate data insights effectively through interactive dashboards.
 - Special thanks to the creators of the public datasets and the Tableau community for their tools and resources.
 
-## Contact
 
-For any questions or suggestions, feel free to reach out via [GitHub](https://github.com/vsumitwork).
 
